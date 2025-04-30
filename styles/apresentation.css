@@ -1,7 +1,7 @@
 #apresentation{
   position: relative;
   height: 100vh;
-  background-image: url(/assets/background/background.png);
+  background-image: url(assets/background/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   display:flex;
